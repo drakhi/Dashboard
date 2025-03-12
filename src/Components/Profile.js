@@ -1,36 +1,4 @@
-// import { Box, Container, Typography } from "@mui/material";
-// import React from "react";
-// import Grid from '@mui/material/Grid2';
-// import Button from "@mui/material/Button";
-// import nagesh from '../Images/Nag.jpg'
-// function Profile() {
-//   return (
-//     <Container fixed>
-//       <Grid container spacing={2} sx={{background:'rgb(33, 38, 49)', padding:'15px',alignContent:'center'}}>
-//         <Grid size={{ xs: 12, sm:12 ,md: 6 }}>
-//           <Box sx={{marginTop:'30px',mb:'50px', marginLeft:'100px'}}>
-//         <img height="450px" width="380px" src={nagesh} alt="Nagesh"/>
-//           </Box>
-//         </Grid>
-//         <Grid size={{ xs: 12,sm:12, md: 6 }}>
-//           <Box sx={{color:'white', marginTop:'65px'}}>
-//             <Typography variant="h3" sx={{textAlign:'center' , mb:'20px', color:'rgb(219,93,93)'}}>NAGESH VANDANA</Typography>
-//             <Typography variant="h6" sx={{textAlign: 'center', marginBottom:'20px'}}>I’m NAGESH VANDANA, a frontend developer as well as Backend developer with a knack for HTML, CSS, and 
-//             JavaScript,React js,node js . I love creating responsive, user-friendly interfaces. Recently, I collaborated on a 
-//             team project that improved website load times by optimizing code. Let's build amazing web experiences together!”
-//             </Typography>
-//             <Box sx={{marginTop:'40px', textAlign:'center'}}>
-//             <a href="https://nageshvandana.42web.io/?i=2" style={{background:'blue', color:'white', borderRadius:'15px', border:'none', textAlign:'center',fontSize:'20px', padding: '15px 32px'}}>Portfilio</a>
-//             </Box>
-          
-//           </Box>
-//         </Grid>
-//       </Grid>
-//     </Container>
-//   );
-// }
 
-// export default Profile;
 
 
 import React from 'react'

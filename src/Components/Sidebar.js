@@ -39,14 +39,6 @@ import Avatar from "@mui/material/Avatar";
 import Menu from "@mui/material/Menu";
 import NightsStayOutlinedIcon from "@mui/icons-material/NightsStayOutlined";
 import BrightnessMediumOutlinedIcon from "@mui/icons-material/BrightnessMediumOutlined";
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardMedia,
-  Container,
-  Grid2,
-} from "@mui/material";
 import Body from "./Body";
 import { Link } from "react-router-dom";
 import Experience from "./Experience";

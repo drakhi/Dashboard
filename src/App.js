@@ -6,8 +6,6 @@ import Profile from "./Components/Profile";
 import Projects from "./Components/Projects";
 import Sidebar from "./Components/Sidebar";
 import Skills from "./Components/Skills";
-// import { BrowserRouter, Route, Switch, Link, Routes } from "react-router-dom";
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AppRoutes from './Components/Routes'
 import { BrowserRouter } from 'react-router-dom'
 

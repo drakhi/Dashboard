@@ -9,7 +9,6 @@ import Body from "./Body";
 
 function AppRoutes(){
     return(
-        // <Router>
         <>
         <Routes>
             <Route path="/" element={<Body />} />
@@ -21,7 +20,6 @@ function AppRoutes(){
             <Route path="/skills" element={<Skills/>} />
         </Routes>
         </>
-    //   </Router>
     )
 }
 export  default AppRoutes
